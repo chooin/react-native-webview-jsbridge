@@ -7,11 +7,12 @@
     "outDir": "./dist",
     "sourceMap": true,
     "lib": [
-      "ES2015.Promise",
+      "ES2015",
       "dom",
     ]
   },
   "include": [
-    "./src/index.ts"
+    "./src/index.ts",
+    "global.d.ts"
   ]
 }
