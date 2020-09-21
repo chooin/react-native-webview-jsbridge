@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "strict": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "lib": [
+      "ES2015.Promise",
+      "dom",
+    ]
+  },
+  "include": [
+    "./src/index.ts"
+  ]
+}

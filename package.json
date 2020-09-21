@@ -1,0 +1,16 @@
+{
+  "name": "react-native-webview-jsbridge",
+  "version": "1.0.0",
+  "description": "JS bridge for react native",
+  "main": "index.js",
+  "repository": "git@github.com:Chooin/react-native-webview-jsbridge.git",
+  "author": "Devin.Zhu <chooin@126.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc -d"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
